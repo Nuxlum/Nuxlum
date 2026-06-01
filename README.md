@@ -82,22 +82,6 @@ This GitHub is where I experiment, learn in public, and ship things I'm proud of
 
 ---
 
-## 💼 Key Projects (Professional)
-
-### 🔷 [Pimbox](https://pimbox.cloud) — Enterprise PIM for Luxury Fashion
-**Role:** Senior Backend Developer & Tech Lead
-
-Designed and built a Product Information Management system for the Luxury Fashion sector. Led backend architecture in **C# / .NET**, managed complex **SQL Server** databases, and developed data transcoding engines for synchronization with international marketplaces.
-
----
-
-### 🔷 [EK](https://ekfatt.com) — Electronic Invoicing SaaS
-**Role:** Project Manager & Lead Backend Developer
-
-Led the development of the leading electronic invoicing platform in San Marino, serving **1,000+ corporate clients**. Built high-traffic API infrastructure with **throttling and rate-limiting**, multi-channel electronic archiving integrations, and a real-time notification system via **Firebase Cloud Messaging + Firestore**.
-
----
-
 ## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-vanucci)
