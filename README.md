@@ -3,7 +3,7 @@
 <div align="center">
 
 # Hey, I'm Francesco 👋
-### `< Backend Engineer />` · Milano, Italy 🇮🇹
+### `< Backend Engineer />`
 
 *Building scalable B2B systems, one clean API at a time.*
 
